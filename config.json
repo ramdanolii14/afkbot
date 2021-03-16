@@ -1,0 +1,9 @@
+{
+	"ip":"play.ramdanmc.my.id",
+	"port": 25732,
+	"name": "afkbot1",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register ramdan",
+	"login-cmd":"/login ramdan"
+}
